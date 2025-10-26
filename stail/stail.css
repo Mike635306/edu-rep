@@ -22,7 +22,7 @@ body{
 }
 
 .vav{
-    color:  white;
+    color:  rgba(247, 244, 244, 0.699);
     font-size: 20px;
     font-weight: bold;
     display: flex;
@@ -34,7 +34,7 @@ body{
 .add-1{
     width: 300px;
     height: 500px;
-    background-color: rgb(43, 43, 43);
+     background-color: rgb(3, 14, 0);
     border-radius: 90px;
     display: flex;
     align-items: center;
@@ -47,7 +47,7 @@ body{
 .add-2{
     width: 300px;
     height: 500px;
-    background-color: rgb(43, 43, 43);
+     background-color: rgb(3, 14, 0);
     border-radius: 90px;
     display: flex;
     align-items: center;
@@ -60,7 +60,7 @@ body{
 .add-3{
     width: 300px;
     height: 500px;
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(3, 14, 0);
     border-radius: 90px;
     display: flex;
     align-items: center;
@@ -73,7 +73,7 @@ body{
 .add-4{
     width: 300px;
     height: 500px;
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(3, 14, 0);
     border-radius: 90px;
     display: flex;
     align-items: center;
@@ -83,7 +83,7 @@ body{
 }
 
 #avatar{
-    border: 1px solid white;
+    border: 1px solid   rgba(247, 244, 244, 0.699);
     border-radius: 70px;
 }
 
